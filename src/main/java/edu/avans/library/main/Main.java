@@ -9,7 +9,7 @@ import edu.avans.library.presentation.MemberAdminUI;
 
 /**
  *
- * @author ppthgast
+ * @author past
  */
 public class Main {
 
